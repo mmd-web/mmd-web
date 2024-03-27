@@ -1,6 +1,10 @@
 <h2>Hi, I am Mohammd 👋</h2>
+<h4>I am a computer student 👨‍🎓</h4>
+<h4>I love programming 👨‍💻</h4>
+<h4>I am a front end developer 💻</h4>
+<h4>I learn about my field every day ⏳</h4>
 <hr/>
-<h2>My field of work 👨‍💻<h2/>
+<h2>My field of work 👨‍💻</h2>
 <h4>I am a front end developer ❤</h4>
 <hr/>
 <h2>My specialties</h2>
