@@ -32,7 +32,10 @@
 <h2>Connect Me</h2>
 
 <div width="100%">
-<a href = "" >
-  <img src = ""/>
+<a href = "https://www.instagram.com/mmd_78_pv" >
+  <img src = "https://github.com/mmd-web/mmd-web/blob/main/icons8-instagram-96.png?raw=true" width="60px"/>
+</a>
+<a href = "https://t.me/mmd_qm_78" >
+  <img src = "https://github.com/mmd-web/mmd-web/blob/main/icons8-telegram-96.png?raw=true" width="60px"/>
 </a>
 <div />
