@@ -4,8 +4,8 @@
 
 <h2>About Me</h2>
 
-- <h4>I am from Iran and the city of Tabriz ❤</h4>
-- <h4>I am a computer student 👨‍🎓</h4>
+- <h4>I`m from Iran and the city of Tabriz ❤</h4>
+- <h4>I`m a computer student 👨‍🎓</h4>
 - <h4>I love programming 👨‍💻</h4>
 - <h4>I learn about my field every day ⏳</h4>
 
@@ -13,7 +13,7 @@
 
 <h2>My field of work 👨‍💻</h2>
 
-- <h4>I am a front end developer ❤</h4>
+- <h4>I`m a front end developer ❤</h4>
 
 <hr/>
 
