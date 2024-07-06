@@ -1,6 +1,6 @@
 <h1>Hi There, I`m Mohammd 👋</h2>
 
-<hr />
+<hr>
 
 <h2>About Me</h2>
 
@@ -9,30 +9,42 @@
 - <h4>I love programming 👨‍💻</h4>
 - <h4>I learn about my field every day ⏳</h4>
 
-<hr/>
+<hr>
 
 <h2>My field of work 👨‍💻</h2>
 
 - <h4>I`m a front end developer ❤</h4>
 
-<hr/>
+<hr>
 
 <h2>My specialties</h2>
 
-<br />
+<br>
 
 <div width="100%">
-  
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-js-96.png?raw=true" width="60px" />
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-react-a-javascript-library-for-building-user-interfaces-96.png?raw=true" width="60px" />
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-html-96.png?raw=true" width="60px" />
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-css-96.png?raw=true" width="60px" />
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-bootstrap-96.png?raw=true" width="60px" />
-<img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-tailwind-css-96.png?raw=true" width="60px" />
 
-<div />
+  <div>
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-js-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-react-a-javascript-library-for-building-user-interfaces-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-vue-js-96.png?raw=true" width="60px" />
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-html-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-css-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-bootstrap-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-tailwind-css-96.png?raw=true" width="60px" />
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-figma-96.png?raw=true" width="60px" />
+    <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-git-96.png?raw=true" width="60px" />
+  </div>
+  <br>
 
-<hr />
+</div>
+
+<hr>
 
 <h2>Connect Me</h2>
 
@@ -43,4 +55,4 @@
 <a href = "https://t.me/mmd_qm_78" >
   <img src = "https://github.com/mmd-web/mmd-web/blob/main/img/icons8-telegram-96.png?raw=true" width="60px"/>
 </a>
-<div />
+</div>
