@@ -1,4 +1,4 @@
-<h1>Hi There, I`m Mohammd 👋</h2>
+<h1>Hi There, I`m Mohammad 👋</h2>
 
 <hr>
 
