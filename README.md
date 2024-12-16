@@ -26,9 +26,6 @@
   <div>
     <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-js-96.png?raw=true" width="60px" />
     <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-react-a-javascript-library-for-building-user-interfaces-96.png?raw=true" width="60px" />
-  </div>
-  <br>
-  <div>
     <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-html-96.png?raw=true" width="60px" />
     <img src="https://github.com/mmd-web/mmd-web/blob/main/img/icons8-css-96.png?raw=true" width="60px" />
   </div>
